@@ -1,0 +1,46 @@
+/* style.css */
+.page1-ip-tracker {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 20px;margin-right: 10px; 
+}
+
+.page1-ip-tracker-header h1{color: #fff}
+.page1-ip-tracker-header {
+    background-color: #4B0082;
+    color: white;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+    display: flex;
+    align-items: center;
+}
+
+.page1-ip-tracker-logo {
+    width: 130px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.page1-ip-tracker-content {
+    padding: 20px;
+}
+
+.wp-list-table th {
+    background-color: #f1f1f1;
+}
+
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.pagination a {
+    text-decoration: none;
+    color: #0073aa;
+}
+
+.pagination a:hover {
+    text-decoration: underline;
+}
